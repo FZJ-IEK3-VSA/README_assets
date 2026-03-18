@@ -1,4 +1,4 @@
-# Code of Conduct - ETHOS.FINE
+# Code of Conduct
 
 ## Our Pledge
 
