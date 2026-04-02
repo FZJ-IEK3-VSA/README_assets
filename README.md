@@ -1,11 +1,9 @@
-<table style="border:0; border-collapse:collapse;">
-		<td style="border:0;">
-			<a href="https://www.fz-juelich.de/en/ice/ice-2">
-				<img src="https://github.com/FZJ-IEK3-VSA/README_assets/blob/v.1.0.0/ICE2_Logos/JSA-Header.svg?raw=True#gh-light-mode-only" alt="Logo für Forschungszentrum Juelich - Juelich System Analysis" width="300px">
-				<img src="https://github.com/FZJ-IEK3-VSA/README_assets/blob/v.1.0.0/ICE2_Logos/JSA-Header-dark.svg?raw=True#gh-dark-mode-only" alt="Logo für Forschungszentrum Juelich - Juelich System Analysis" width="300px">
-			</a>
-		</td>
-</table>
+<a href="https://www.fz-juelich.de/en/ice/ice-2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FZJ-IEK3-VSA/README_assets/blob/v.1.0.0/ICE2_Logos/JSA-Header-dark.svg?raw=True">
+    <img src="https://github.com/FZJ-IEK3-VSA/README_assets/blob/v.1.0.0/ICE2_Logos/JSA-Header.svg?raw=True" alt="Logo für Forschungszentrum Juelich - Juelich System Analysis" width="300px">
+  </picture>
+</a>
 
 ## About Us 
 
